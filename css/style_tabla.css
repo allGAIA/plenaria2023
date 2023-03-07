@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin:20px;
+}
+
+.encabezado {
+    display: flex;
+    background-color: #0081C9;
+    align-items: center;
+    padding: 1%;
+    margin: 0%;
+    border-radius: 0%;
+}
+
+.titulo {
+    padding-left: 1%;
+    color: aliceblue;
+    font-family: 'League Spartan', sans-serif;
+}
